@@ -155,6 +155,6 @@ The following shows the variance importance of the predictors. It adds up the we
 importance(m_avg2)
 ```
 
-Fill in the blanks: Aside from `ses_cm` and `ses_cmc`, *sx, minrty_cm* are the most important for predicting `mAch`, while *sx_cm* is the least important.
+Fill in the blanks: Aside from `ses_cm` and `ses_cmc`, *sx, minrty* are the most important for predicting `mAch`, while *sx_cm* is the least important.
 
 To learn more about averaging, check out this paper: https://www.sciencedirect.com/science/article/pii/S0022249699912786

@@ -312,9 +312,9 @@ importance(m_avg2)
     ## Sum of weights:      1.00   1.00   1.00    1.00 0.42      0.20 
     ## N containing models:    3      3      3       3    2         1
 
-Fill in the blanks: Aside from `ses_cm` and `ses_cmc`, *sx, minrty\_cm*
-are the most important for predicting `mAch`, while *sx\_cm* is the
-least important.
+Fill in the blanks: Aside from `ses_cm` and `ses_cmc`, *sx, minrty* are
+the most important for predicting `mAch`, while *sx\_cm* is the least
+important.
 
 To learn more about averaging, check out this paper:
 <https://www.sciencedirect.com/science/article/pii/S0022249699912786>
